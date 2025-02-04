@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         DeepSeek Chat 页面 Mermaid 渲染增强
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/conglinyizhi/conglinyizhi/
 // @version      0.1
 // @description  在Mermaid代码块旁添加渲染按钮，点击后打开新窗口（由 DeepSeek 深度思考编写）
 // @author       DeepSeek-R1 & Conglinyizhi
