@@ -7,6 +7,7 @@
 // @match        https://chat.deepseek.com/*
 // @grant        none
 // @require      https://cdn.jsdelivr.net/npm/mermaid@9/dist/mermaid.min.js
+// @license      MIT
 // ==/UserScript==
 
 (function() {
