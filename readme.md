@@ -1,6 +1,7 @@
 ### Conglinyizhi
 
 - JavaScript & TypeScript
+- Go 在学
 - Node.js 
 - Bun ([Dora.js](https://github.com/Dorajs/docs) 已经不再使用)
 - 小鹤双拼
