@@ -2,12 +2,14 @@
 
 > 你好，叫我丛林意志就好
 
-- JavaScript & TypeScript
-- Go（学习中）
-- Node.js / Bun
-- 小鹤双拼
-- 原神 & 星穹铁道
-- Arch Linux
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+
+🎮 原神 & 星穹铁道　⌨️ 小鹤双拼
 
 > ~~还能写点什么呢……~~
 
