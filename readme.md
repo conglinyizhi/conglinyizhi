@@ -11,8 +11,6 @@
 
 > ~~还能写点什么呢……~~
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=conglinyizhi)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 📋 [开发规范与工作流](./workflow.md)
